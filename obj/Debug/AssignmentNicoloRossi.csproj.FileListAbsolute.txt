@@ -22,3 +22,15 @@ C:\Users\nicos\Downloads\AssignmentNicoloRossi02.03.2022\AssignmentNicoloRossi\o
 C:\Users\nicos\Downloads\AssignmentNicoloRossi02.03.2022\AssignmentNicoloRossi\obj\Debug\AssignmentNicoloRossi.csproj.CoreCompileInputs.cache
 C:\Users\nicos\Downloads\AssignmentNicoloRossi02.03.2022\AssignmentNicoloRossi\obj\Debug\AssignmentNicoloRossi.exe
 C:\Users\nicos\Downloads\AssignmentNicoloRossi02.03.2022\AssignmentNicoloRossi\obj\Debug\AssignmentNicoloRossi.pdb
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\bin\Debug\AssignmentNicoloRossi.exe.config
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\bin\Debug\AssignmentNicoloRossi.exe
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\bin\Debug\AssignmentNicoloRossi.pdb
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\obj\Debug\AssignmentNicoloRossi.csproj.AssemblyReference.cache
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\obj\Debug\AssignmentNicoloRossi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\obj\Debug\AssignmentNicoloRossi.frmCars.resources
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\obj\Debug\AssignmentNicoloRossi.FrmSearch.resources
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\obj\Debug\AssignmentNicoloRossi.Properties.Resources.resources
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\obj\Debug\AssignmentNicoloRossi.csproj.GenerateResource.cache
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\obj\Debug\AssignmentNicoloRossi.csproj.CoreCompileInputs.cache
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\obj\Debug\AssignmentNicoloRossi.exe
+C:\Users\nicos\Documents\Documents - Vecchio PC\Work\C#\AssignmentNicoloRossi02.03.2022\Car hire app\obj\Debug\AssignmentNicoloRossi.pdb
